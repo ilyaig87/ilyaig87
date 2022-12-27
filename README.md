@@ -4,7 +4,7 @@
 
 ## 🔗 Links
 
-[I'm an inline-style link](https://www.google.com)
+[Linkdin profile](https://www.google.com)
 
  ## 🛠 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
