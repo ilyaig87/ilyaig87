@@ -4,7 +4,7 @@
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.google.com](https://www.linkedin.com/in/ilya-griss/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.google.com](https://www.linkedin.com/in/ilya-griss/)
 
  ## 🛠 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
