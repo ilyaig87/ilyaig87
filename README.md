@@ -9,9 +9,9 @@
  ## 🛠 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
 
- ##Check my apps YoutUSe App:
+! ##Check my apps YoutUSe App:
 https://funny-taffy-e56e29.netlify.app/
- ##Check my apps Games App:
+! ##Check my apps Games App:
 https://lustrous-khapse-6f3c06.netlify.app/
 
 
