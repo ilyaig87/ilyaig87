@@ -10,11 +10,11 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
 
 Check my apps YoutUSe App:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8b68fe1a-2929-480b-bf1e-cc1006955d22/deploy-status)](https://app.netlify.com/sites/youtuse/deploys)
+https://youtuse.netlify.app/
  <br>
  
 Check my apps Games App:
-https://lustrous-khapse-6f3c06.netlify.app/
+[https://lustrous-khapse-6f3c06.netlify.app/](https://i-games.netlify.app)
 
 
 ##
