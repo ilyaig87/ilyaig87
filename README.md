@@ -14,7 +14,7 @@ https://youtuse.netlify.app/
  <br>
  
 Check my apps Games App:
-[https://lustrous-khapse-6f3c06.netlify.app/](https://i-games.netlify.app)
+https://i-games.netlify.app/
 
 
 ##
