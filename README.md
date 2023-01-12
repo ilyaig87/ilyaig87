@@ -10,7 +10,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
 
 Check my apps YoutUSe App:
-https://funny-taffy-e56e29.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b68fe1a-2929-480b-bf1e-cc1006955d22/deploy-status)](https://app.netlify.com/sites/youtuse/deploys)
  <br>
  
 Check my apps Games App:
