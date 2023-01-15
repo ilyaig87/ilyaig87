@@ -9,11 +9,15 @@
  ## 🛠 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
 
-Check my apps YoutUSe App:
+Check my portfolio App:
+https://my-portfolio-ilya-grisss.netlify.app/
+ <br>
+ 
+Check my YoutUSe App:
 https://youtuse.netlify.app/
  <br>
  
-Check my apps Games App:
+Check my games App:
 https://i-games.netlify.app/
 
 
