@@ -10,7 +10,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
 
 Check my portfolio App:
-https://my-portfolio-ilya-grisss.netlify.app/
+https://my-portfolio-ilya.netlify.app/
  <br>
  
 Check my YoutUSe App:
