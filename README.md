@@ -17,7 +17,7 @@ Check my apps Games App:
 https://i-games.netlify.app/
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ilyaig87=anuraghazra&layout=compact)](https://github.com/ilyaig87/github-readme-stats)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ilyaig87.visitor-badge)
 <!---
