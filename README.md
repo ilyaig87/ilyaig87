@@ -13,6 +13,11 @@ Check my portfolio App:
 https://my-portfolio-ilya.netlify.app/
  <br>
  
+ Check my Films and TV shows App:
+ https://critics.netlify.app/
+  <br>
+  
+  
 Check my YoutUSe App:
 https://youtuse.netlify.app/
  <br>
@@ -20,8 +25,4 @@ https://youtuse.netlify.app/
 Check my games App:
 https://i-games.netlify.app/
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ilyaig87.visitor-badge)
-<!---
-ilyaig87/ilyaig87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
