@@ -9,12 +9,13 @@
  ## 🛠 Skills 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
 
-Check my portfolio App:
-https://myportfolio-ilyagriss.netlify.app/
+Check my portfolio App
+https://ilyagriss-potfolio.netlify.app/
  <br>
  
  Check my Films and TV shows App:
- https://critics.netlify.app/
+
+https://critics.netlify.app/
   <br>
   
   
