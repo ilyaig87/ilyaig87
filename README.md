@@ -1,29 +1,31 @@
-- Hi, my name is Ilya Griss
-- 👀 I am a Full-Stack / Frontend Web Developer
-- 📫 My e-mail  ilyaig8@gmail.com
+# Hi, I'm Ilya Griss 👋
 
-## 🔗 Links
+### Full-Stack / Frontend Web Developer
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-griss/)
+I build responsive, user-friendly web applications with **React, JavaScript, TypeScript, Node.js** and more.
 
- ## 🛠 Skills 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap,discord)](https://skills.thijs.gg)
+📫 **Email:** ilyaig8@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/ilya-griss/
 
-Check my portfolio App
-https://ilyagriss-potfolio.netlify.app/
- <br>
- 
- Check my Films and TV shows App:
+---
 
-https://critics.netlify.app/
-  <br>
-  
-  
-Check my YoutUSe App:
-https://youtuse.netlify.app/
- <br>
- 
-Check my games App:
-https://i-games.netlify.app/
+### 🛠️ Tech Stack
 
+![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,vue,mongo,git,github,scss,nodejs,redux,jquery,vscode,bootstrap)
 
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+|---|---|---|
+| **Portfolio** | My personal portfolio site | https://ilyagriss-potfolio.netlify.app/ |
+| **Critic** | Films & TV shows discovery app | https://critics.netlify.app/ |
+| **YoutUSe** | Video app inspired by YouTube | https://youtuse.netlify.app/ |
+| **Games** | Collection of browser games | https://i-games.netlify.app/ |
+
+---
+
+### 📊 GitHub Stats
+
+![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyaig87&show_icons=true&theme=radical)
