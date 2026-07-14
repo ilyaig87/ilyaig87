@@ -18,7 +18,7 @@
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
-| **Portfolio** | My personal portfolio site | React, JavaScript | https://ilyagriss-potfolio.netlify.app/ |
+| **Portfolio** | My personal portfolio site | React, JavaScript, TypeScript | https://my-portfolio-theta-blond-61.vercel.app/ |
 | **Critic** | Films & TV shows discovery app | React, JavaScript | https://critics.netlify.app/ |
 | **YoutUSe** | Video app inspired by YouTube | React, JavaScript | https://youtuse.netlify.app/ |
 | **Games** | Collection of browser games | JavaScript | https://i-games.netlify.app/ |
