@@ -1,12 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2F+Frontend+Web+Developer;React+%7C+JavaScript+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+</p>
+
 # Hi, I'm Ilya Griss
-
-### Full-Stack / Frontend Web Developer
-
-I build responsive, user-friendly web applications with **React, JavaScript, TypeScript, Node.js** and more.
 
 **Email:** ilyaig8@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/ilya-griss/
-
 ---
 
 ### Tech Stack
@@ -17,12 +16,12 @@ I build responsive, user-friendly web applications with **React, JavaScript, Typ
 
 ### Featured Projects
 
-| Project | Description | Live Demo |
-|---|---|---|
-| **Portfolio** | My personal portfolio site | https://ilyagriss-potfolio.netlify.app/ |
-| **Critic** | Films & TV shows discovery app | https://critics.netlify.app/ |
-| **YoutUSe** | Video app inspired by YouTube | https://youtuse.netlify.app/ |
-| **Games** | Collection of browser games | https://i-games.netlify.app/ |
+| Project | Description | Tech | Live Demo |
+|---|---|---|---|
+| **Portfolio** | My personal portfolio site | React, JavaScript | https://ilyagriss-potfolio.netlify.app/ |
+| **Critic** | Films & TV shows discovery app | React, JavaScript | https://critics.netlify.app/ |
+| **YoutUSe** | Video app inspired by YouTube | React, JavaScript | https://youtuse.netlify.app/ |
+| **Games** | Collection of browser games | JavaScript | https://i-games.netlify.app/ |
 
 ---
 
